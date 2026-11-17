@@ -65,8 +65,8 @@ while True:
     if keyboard.is_pressed(ACBind):
         
 
-        delay_ms = random.randint(30, 40)   # Random delay (Light AC bypass)
-        delay_ms2 = random.randint(25, 40)
+                delay_ms = random.randint(40, 50)   # Random delay (Light AC bypass)
+        delay_ms2 = random.randint(20, 35)
         delay_glowsstone_bug_fix = random.randint(35, 50) # bug fix do not remove
 
 
